@@ -12,8 +12,8 @@ I am a self-driven developer with a hybrid background in **Digital Arts** and **
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Engines:** Unity (Advanced), Unreal Engine 5 (Intermediate).
-- **Languages:** C# (Pro), C (Basic), Python (Basic), Blueprints.
+- **Engines:** Unity (Intermediate), Unreal Engine 5 (Beginner).
+- **Languages:** C# (Intermediate), C (Basic), Python (Basic), Blueprints(Basic).
 - **Specialties:** UI/UX Systems, Localization Pipelines, Factory Pattern, ScriptableObjects.
 - **Tools:** Git/GitHub, Visual Studio, VS Code, Maya, Adobe Suite.
 
@@ -21,17 +21,17 @@ I am a self-driven developer with a hybrid background in **Digital Arts** and **
 
 ### 🕹️ Featured Technical Projects
 
-#### [Speedrun To Diabetes](https://github.com/tu-usuario/speedrun-diabetes)
+#### [Speedrun To Diabetes]([https://github.com/tu-usuario/speedrun-diabetes](https://alejandro-ramosv.itch.io/speedrun-to-diabetes))
 *A solo-dev exercise in modular architecture.*
 - **Technical Highlight:** Implemented a modular **Factory Design Pattern** for procedural object spawning.
 - **Skills:** C#, Physics-based movement, persistent data management.
 
-#### [The Last Potato](https://github.com/tu-usuario/last-potato)
+#### [The Last Potato]([https://github.com/tu-usuario/last-potato](https://alejandro-ramosv.itch.io/thelastpotato-unitygamejam))
 *Time-manipulation prototype built in 48 hours for Unity 20th Anniversary Jam.*
 - **Technical Highlight:** Developed a custom time-rewind system and state management loop.
 - **Ranked #243** in the global Unity Jam.
 
-#### [Nara: Tower Defense](https://github.com/tu-usuario/nara-td)
+#### [Nara: Tower Defense]([https://github.com/tu-usuario/nara-td](https://tlachi-games.itch.io/nara-tower-defense))
 *Technical leadership and system integration.*
 - **Technical Highlight:** Architected a 3-language localization pipeline and a responsive UI framework for multi-platform release.
 
