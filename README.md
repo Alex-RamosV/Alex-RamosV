@@ -21,7 +21,7 @@ I am a self-driven developer with a hybrid background in **Digital Arts** and **
 
 ### 🕹️ Featured Technical Projects
 
-#### [Speedrun To Diabetes]([https://github.com/tu-usuario/speedrun-diabetes](https://alejandro-ramosv.itch.io/speedrun-to-diabetes))
+#### [Speedrun To Diabetes](https://alejandro-ramosv.itch.io/speedrun-to-diabetes)
 *A solo-dev exercise in modular architecture.*
 - **Technical Highlight:** Implemented a modular **Factory Design Pattern** for procedural object spawning.
 - **Skills:** C#, Physics-based movement, persistent data management.
