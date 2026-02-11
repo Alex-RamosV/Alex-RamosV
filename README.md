@@ -21,6 +21,11 @@ I am a self-driven developer with a hybrid background in **Digital Arts** and **
 
 ### 🕹️ Featured Technical Projects
 
+#### [Flux](https://github.com/tu-usuario/flux](https://alejandro-ramosv.itch.io/flux)
+*A minimalist arcade study on "Game Juice" and player feel.*
+- **Technical Highlight:** Engineered custom **screen-wrapping logic** and dynamic player-growth mechanics.
+- **Focus:** Implementing satisfying gameplay loops, high-score persistence, and visual feedback (polish).
+
 #### [Speedrun To Diabetes](https://alejandro-ramosv.itch.io/speedrun-to-diabetes)
 *A solo-dev exercise in modular architecture.*
 - **Technical Highlight:** Implemented a modular **Factory Design Pattern** for procedural object spawning.
