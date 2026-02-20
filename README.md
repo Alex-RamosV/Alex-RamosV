@@ -7,7 +7,7 @@ I am a self-driven developer with a hybrid background in **Digital Arts** and **
 ### 2026 Focus: Clean Architecture & System Resilience
 * 🚀 Currently refining my expertise in **Design Patterns** and **Performance Optimization**.
 * 🛠️ Experienced in **Project Rescue**: Taking fragmented codebases and turning them into shipped products.
-* 🎓 **CS50 Certified** (Harvard University) - Strong foundation in C, Python, and Algorithmic thinking.
+* 🎓 **CS50x Certified** (Harvard University) - Strong foundation in C, Python, and Algorithmic thinking.
 
 ---
 
