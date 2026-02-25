@@ -14,7 +14,6 @@ I am a self-driven developer with a hybrid background in **Digital Arts** and **
 ### 🛠️ Tech Stack & Tools
 - **Engines:** Unity (Intermediate), Unreal Engine 5 (Beginner).
 - **Languages:** C# (Intermediate), C (Basic), Python (Basic), Blueprints(Basic).
-- **Specialties:** UI/UX Systems, Localization Pipelines, Factory Pattern, ScriptableObjects.
 - **Tools:** Git/GitHub, Visual Studio, VS Code, Maya, Adobe Suite.
 
 ---
