@@ -1,49 +1,31 @@
-# Hi there, I'm Alejandro Ramos 👋
+# Hi, I'm Alejandro Ramos 👋
 
-**Game Developer | Unity Specialist | Software Engineering Enthusiast**
+I'm a **Game Developer** from Mexico with a background in **Digital Arts** (ITESM). Currently, I'm focusing my professional growth on **Software Engineering** and clean code (CS50x). I enjoy the challenge of bridging the gap between a creative vision and a scalable technical implementation.
 
-I am a self-driven developer with a hybrid background in **Digital Arts** and **Software Engineering (CS50)**. I specialize in architecting clean, scalable systems in Unity/C# and bridging the gap between artistic vision and technical implementation.
-
-### 2026 Focus: Clean Architecture & System Resilience
-* 🚀 Currently refining my expertise in **Design Patterns** and **Performance Optimization**.
-* 🛠️ Experienced in **Project Rescue**: Taking fragmented codebases and turning them into shipped products.
-* 🎓 **CS50x Certified** (Harvard University) - Strong foundation in C, Python, and Algorithmic thinking.
+### 💻 Tech Stack
+* **Engines:** Unity (C#) — This is where I spend most of my time.
+* **Languages:** C#, Python, C, Lua.
+* **Tools:** Git/GitHub, Visual Studio, VS Code, Maya, Adobe Creative Suite.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- **Engines:** Unity (Intermediate), Unreal Engine 5 (Beginner).
-- **Languages:** C# (Intermediate), C (Basic), Python (Basic), Blueprints(Basic).
-- **Tools:** Git/GitHub, Visual Studio, VS Code, Maya, Adobe Suite.
+### 🕹 Technical Projects
+
+#### **[Flux](https://alejandro-ramosv.itch.io/flux)**
+A study on "Game Juice" and C# feedback loops.
+
+#### **[The Last Potato](https://alejandro-ramosv.itch.io/thelastpotato-unitygamejam)**
+Built a state-based time-rewind system in 48 hours for Unity Jam.
+
+#### **[Nara: Tower Defense](https://tlachi-games.itch.io/nara-tower-defense)**
+Architected the UI systems and a 3-language localization pipeline.
+
+#### **[Speedrun To Diabetes](https://alejandro-ramosv.itch.io/speedrun-to-diabetes)**
+An exercise in modular architecture using the **Factory Design Pattern**.
 
 ---
 
-### 🕹️ Featured Technical Projects
-
-#### [Flux](https://alejandro-ramosv.itch.io/flux)
-*A minimalist arcade study on "Game Juice" and player feel.*
-- **Technical Highlight:** Engineered custom **screen-wrapping logic** and dynamic player-growth mechanics.
-- **Focus:** Implementing satisfying gameplay loops, high-score persistence, and visual feedback (polish).
-
-#### [The Last Potato](https://alejandro-ramosv.itch.io/thelastpotato-unitygamejam)
-*Time-manipulation prototype built in 48 hours for Unity 20th Anniversary Jam.*
-- **Technical Highlight:** Developed a custom time-rewind system and state management loop.
-- **Ranked #243** in the global Unity Jam.
-
-#### [Speedrun To Diabetes](https://alejandro-ramosv.itch.io/speedrun-to-diabetes)
-*A solo-dev exercise in modular architecture.*
-- **Technical Highlight:** Implemented a modular **Factory Design Pattern** for procedural object spawning.
-- **Skills:** C#, Physics-based movement, persistent data management.
-
-#### [Nara: Tower Defense](https://tlachi-games.itch.io/nara-tower-defense)
-*Technical leadership and system integration.*
-- **Technical Highlight:** Architected a 3-language localization pipeline and a responsive UI framework for multi-platform release.
-
----
-
-### 📫 Connect with me:
-- **Portfolio:** [alex-ramosv.github.io](https://alex-ramosv.github.io/)
-- **LinkedIn:** [linkedin.com/in/arv15](https://www.linkedin.com/in/arv15/)
-- **Itch.io:** [alejandro-ramosv.itch.io](https://alejandro-ramosv.itch.io/)
-
-*"I don't just write code; I architect experiences."*
+### 📬 Let's talk
+* **Portfolio:** [alex-ramosv.github.io](https://alex-ramosv.github.io/)
+* **LinkedIn:** [linkedin.com/in/arv15](https://www.linkedin.com/in/arv15/)
+* **Itch.io:** [alejandro-ramosv.itch.io](https://alejandro-ramosv.itch.io/)
